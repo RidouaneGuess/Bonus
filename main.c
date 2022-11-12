@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main()
 {
-        char nom;
+        char *nom;
         nom=(char*)malloc(sizeof(char));
         printf("\nEntrez votre nom:");
         scanf(nom);
