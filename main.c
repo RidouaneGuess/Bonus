@@ -8,4 +8,5 @@ int main()
         scanf("%s",nom);
         printf("Votre nom est:%s",nom);
         return 0;
+	//au lieu de Titi comme nom, j'ai oublié et j'ai mit mon nom
 }
